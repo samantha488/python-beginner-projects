@@ -9,6 +9,6 @@ while true:
       print("you got it correct!🤗👍")  #if you type the secret number correctly it prints correct
 
     else:
-      print("wrong try again") #if you not type the secret number it prints wrong
+      print("wrong try again") #if you did not type the secret number it prints wrong
       
             
