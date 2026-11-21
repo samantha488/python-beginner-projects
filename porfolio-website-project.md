@@ -1,6 +1,7 @@
-this project contains html(frontend),css(for style) and little bit of python(backend using flash)
-VS code is necessary for this project
-## 1. python
+##this project contains html(frontend),css(for style) and little bit of python(backend using flash)
+##VS code is necessary for this project
+
+##python
 
 ```python
 from flask import Flask,render_template
